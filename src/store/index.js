@@ -1,6 +1,5 @@
 import React from 'react';
 import { useLocalStore } from 'mobx-react';
-import produce from 'immer';
 
 const StoreContext = React.createContext();
 
